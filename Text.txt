@@ -1,0 +1,3 @@
+I am Venkatesh Tohgaonkar,
+welcome ti my Github Repositories.
+this is a file to check the git and git hu configuration
